@@ -1,0 +1,11 @@
+# References
+# https://github.com/github/gitignore
+# http://shanesbrain.net/2008/7/9/using-xcode-with-git
+
+# from shanesbrain ref
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+*.swp
