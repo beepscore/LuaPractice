@@ -1,3 +1,9 @@
+#!/usr/local/bin/lua
+
+-- first line of file is path to lua interpreter, allows 
+-- run script by typing <filename>, doesn't require lua <filename>
+-- reference http://www.lua.org/pil/1.4.html
+
 -- define function factorial
 -- Reference http://www.lua.org/pil/1.html
 
